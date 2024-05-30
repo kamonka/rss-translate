@@ -30,3 +30,4 @@ next find the translated link in [https://talengu.github.io/rss-translate/](http
  - source007 [https://feedx.net/rss/scmp.xml](https://feedx.net/rss/scmp.xml) -> [scmp_rss.xml](rss/scmp_rss.xml)
  - source008 [https://rss.stephenslab.top/feed/5049.xml](https://rss.stephenslab.top/feed/5049.xml) -> [libgen_rss.xml](rss/libgen_rss.xml)
  - source009 [https://rsseverything.com/zh/feed/738019e8-a62c-4816-b737-6d2554689bd0.xml](https://rsseverything.com/zh/feed/738019e8-a62c-4816-b737-6d2554689bd0.xml) -> [NTNon_rss.xml](rss/NTNon_rss.xml)
+ - source010 [https://rsseverything.com/zh/feed/5226.xml](https://rsseverything.com/zh/feed/5226.xml) -> [NYTbestsellers.xml](rss/NYTbestsellers.xml)
