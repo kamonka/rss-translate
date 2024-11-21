@@ -32,3 +32,4 @@ next find the translated link in [https://talengu.github.io/rss-translate/](http
  - source009 [https://rsseverything.com/zh/feed/738019e8-a62c-4816-b737-6d2554689bd0.xml](https://rsseverything.com/zh/feed/738019e8-a62c-4816-b737-6d2554689bd0.xml) -> [NTNon_rss.xml](rss/NTNon_rss.xml)
  - source010 [https://rsseverything.com/zh/feed/5226.xml](https://rsseverything.com/zh/feed/5226.xml) -> [NYTbestsellers_rss.xml](rss/NYTbestsellers_rss.xml)
  - source011 [https://rsseverything.com/feed/4593.xml](https://rsseverything.com/feed/4593.xml) -> [jokechina_rss.xml](rss/jokechina_rss.xml)
+ - source012 [https://understandingwar.org/rss.xml](https://understandingwar.org/rss.xml) -> [studywar_rss.xml](rss/studywar_rss.xml)
