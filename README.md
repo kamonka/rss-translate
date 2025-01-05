@@ -32,4 +32,5 @@ next find the translated link in [https://talengu.github.io/rss-translate/](http
  - source009 [https://rsseverything.com/zh/feed/738019e8-a62c-4816-b737-6d2554689bd0.xml](https://rsseverything.com/zh/feed/738019e8-a62c-4816-b737-6d2554689bd0.xml) -> [NTNon_rss.xml](rss/NTNon_rss.xml)
  - source010 [https://rsseverything.com/zh/feed/5226.xml](https://rsseverything.com/zh/feed/5226.xml) -> [NYTbestsellers_rss.xml](rss/NYTbestsellers_rss.xml)
  - source011 [https://rsseverything.com/feed/4593.xml](https://rsseverything.com/feed/4593.xml) -> [jokechina_rss.xml](rss/jokechina_rss.xml)
- - source012 [https://politepol.com/fd/PbLJ6LD31gb4.xml](https://politepol.com/fd/PbLJ6LD31gb4.xml) -> [studywar_rss.xml](rss/studywar_rss.xml)
+ - source012 [https://fetchrss.com/rss/677a1c0eec77b5549f083192677a1be19287c4acc30716d2.rss](https://fetchrss.com/rss/677a1c0eec77b5549f083192677a1be19287c4acc30716d2.rss) -> [studywar_rss.xml](rss/studywar_rss.xml)
+ - source013 [https://www.twz.com/feed](https://www.twz.com/feed) -> [TheWarZone_rss.xml](rss/TheWarZone_rss.xml)
