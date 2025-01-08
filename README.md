@@ -32,5 +32,5 @@ next find the translated link in [https://talengu.github.io/rss-translate/](http
  - source009 [https://rsseverything.com/zh/feed/738019e8-a62c-4816-b737-6d2554689bd0.xml](https://rsseverything.com/zh/feed/738019e8-a62c-4816-b737-6d2554689bd0.xml) -> [NTNon_rss.xml](rss/NTNon_rss.xml)
  - source010 [https://rsseverything.com/zh/feed/5226.xml](https://rsseverything.com/zh/feed/5226.xml) -> [NYTbestsellers_rss.xml](rss/NYTbestsellers_rss.xml)
  - source011 [https://rsseverything.com/feed/4593.xml](https://rsseverything.com/feed/4593.xml) -> [jokechina_rss.xml](rss/jokechina_rss.xml)
- - source012 [https://fetchrss.com/rss/677a1c0eec77b5549f083192677a1be19287c4acc30716d2.rss](https://fetchrss.com/rss/677a1c0eec77b5549f083192677a1be19287c4acc30716d2.rss) -> [studywar_rss.xml](rss/studywar_rss.xml)
+ - source012 [https://ftr.fivefilters.net/makefulltextfeed.php?url=https://politepol.com/fd/TMRgeTPtPeA1.xml](https://ftr.fivefilters.net/makefulltextfeed.php?url=https://politepol.com/fd/TMRgeTPtPeA1.xml) -> [studywar_rss.xml](rss/studywar_rss.xml)
  - source013 [http://ftr.fivefilters.net/makefulltextfeed.php?url=https://www.twz.com/feed&amp;max=3&amp;links=preserve](http://ftr.fivefilters.net/makefulltextfeed.php?url=https://www.twz.com/feed&amp;max=3&amp;links=preserve) -> [TheWarZone_rss.xml](rss/TheWarZone_rss.xml)
