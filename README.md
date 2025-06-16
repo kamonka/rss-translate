@@ -2,8 +2,8 @@
 
 rss translate any to any
 
-![](https://github.com/ueui/rss-translate/workflows/circle_translate/badge.svg)
-![](https://github.com/ueui/rss-translate/workflows/Deploy/badge.svg)
+![](https://github.com/kamonka/rss-translate/workflows/circle_translate/badge.svg)
+![](https://github.com/kamonka/rss-translate/workflows/Deploy/badge.svg)
 
 you can edit [test.ini](https://github.com/ueui/rss-translate/edit/main/test.ini) to add orginal rss url. [help](https://github.com/ueui/rss/issues/2)
 
