@@ -5,7 +5,7 @@ rss translate any to any
 ![](https://github.com/kamonka/rss-translate/workflows/circle_translate/badge.svg)
 ![](https://github.com/kamonka/rss-translate/workflows/Deploy/badge.svg)
 
-you can edit test.ini to add orginal rss url. [help]([https://github.com/ueui/rss/issues/2](https://www.tjsky.net/tutorial/644))
+you can edit test.ini to add orginal rss url. [help](https://www.tjsky.net/tutorial/644)
 
 next find the translated link in [https://talengu.github.io/rss-translate/](https://talengu.github.io/rss-translate/)
 
