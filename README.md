@@ -28,4 +28,4 @@ next find the translated link in [https://talengu.github.io/rss-translate/](http
  - source015 [https://rssweball.top/feed/b0079e44-82b8-44ca-b274-4f9d8e1de3bc.xml](https://rssweball.top/feed/b0079e44-82b8-44ca-b274-4f9d8e1de3bc.xml) -> [CHPress_rss.xml](rss/CHPress_rss.xml)
  - source016 [https://rsseverything.com/zh/feed/3096.xml](https://rsseverything.com/zh/feed/3096.xml) -> [Atlantic_rss.xml](rss/Atlantic_rss.xml)
  - source017 [https://feedx.net/rss/newyorker.xml](https://feedx.net/rss/newyorker.xml) -> [NewYorker_rss.xml](rss/NewYorker_rss.xml)
- - source018 [https://rssweball.top/feed/73d68311-85e3-4745-a914-d88e393bed84.xml](https://rssweball.top/feed/73d68311-85e3-4745-a914-d88e393bed84.xml) -> [RuStory_rss.xml](rss/RuStory_rss.xml)
+ - source018 [https://politepaul.com/fd/Yu6ASdqClPhW.xml](https://politepaul.com/fd/Yu6ASdqClPhW.xml) -> [RuStory_rss.xml](rss/RuStory_rss.xml)
