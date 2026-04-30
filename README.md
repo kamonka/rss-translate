@@ -31,3 +31,4 @@ next find the translated link in [https://talengu.github.io/rss-translate/](http
  - source018 [https://dallas-analytics.com/feed/](https://dallas-analytics.com/feed/) -> [dallasanalytics_rss.xml](rss/dallasanalytics_rss.xml)
  - source019 [http://feeds.feedburner.com/FutilityCloset](http://feeds.feedburner.com/FutilityCloset) -> [futilitycloset_rss.xml](rss/futilitycloset_rss.xml)
  - source020 [https://pda.anekdot.ru/rss/tag/8.xml](https://pda.anekdot.ru/rss/tag/8.xml) -> [pujin_rss.xml](rss/pujin_rss.xml)
+ - source021 [https://rsseverything.com/feed/c479b001-46b8-46ae-a570-9104853d83dc.xml](https://rsseverything.com/feed/c479b001-46b8-46ae-a570-9104853d83dc.xml) -> [djt_rss.xml](rss/djt_rss.xml)
