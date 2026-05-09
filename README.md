@@ -32,3 +32,4 @@ next find the translated link in [https://talengu.github.io/rss-translate/](http
  - source019 [https://rssweball.top/feed/ccbb3564-2d59-4685-b89e-ffe9047f2ba5.xml](https://rssweball.top/feed/ccbb3564-2d59-4685-b89e-ffe9047f2ba5.xml) -> [futilitycloset_rss.xml](rss/futilitycloset_rss.xml)
  - source020 [https://pda.anekdot.ru/rss/tag/8.xml](https://pda.anekdot.ru/rss/tag/8.xml) -> [pujin_rss.xml](rss/pujin_rss.xml)
  - source021 [https://rsseverything.com/feed/c479b001-46b8-46ae-a570-9104853d83dc.xml](https://rsseverything.com/feed/c479b001-46b8-46ae-a570-9104853d83dc.xml) -> [djt_rss.xml](rss/djt_rss.xml)
+ - source022 [https://rssweball.top/feed/9ea34619-d53c-4460-badd-3ee0ee9e38ae.xml](https://rssweball.top/feed/9ea34619-d53c-4460-badd-3ee0ee9e38ae.xml) -> [vsquar_rss.xml](rss/vsquar_rss.xml)
