@@ -25,7 +25,7 @@ next find the translated link in [https://talengu.github.io/rss-translate/](http
  - source012 [https://www.twz.com/feed](https://www.twz.com/feed) -> [TheWarZone_rss.xml](rss/TheWarZone_rss.xml)
  - source013 [https://rssweball.top/feed/5bd9f12b-0c84-4419-aa20-4f576746357d.xml](https://rssweball.top/feed/5bd9f12b-0c84-4419-aa20-4f576746357d.xml) -> [TMDB_rss.xml](rss/TMDB_rss.xml)
  - source014 [https://rssweball.top/feed/b0079e44-82b8-44ca-b274-4f9d8e1de3bc.xml](https://rssweball.top/feed/b0079e44-82b8-44ca-b274-4f9d8e1de3bc.xml) -> [CHPress_rss.xml](rss/CHPress_rss.xml)
- - source015 [https://rsseverything.com/zh/feed/3096.xml](https://rsseverything.com/zh/feed/3096.xml) -> [Atlantic_rss.xml](rss/Atlantic_rss.xml)
+ - source015 [http://feeds.feedburner.com/TheAtlantic](http://feeds.feedburner.com/TheAtlantic) -> [Atlantic_rss.xml](rss/Atlantic_rss.xml)
  - source016 [https://feedx.net/rss/newyorker.xml](https://feedx.net/rss/newyorker.xml) -> [NewYorker_rss.xml](rss/NewYorker_rss.xml)
  - source017 [https://rsseverything.com/zh/feed/6e34b882-d6a9-4207-97a5-968c7d9da10b.xml](https://rsseverything.com/zh/feed/6e34b882-d6a9-4207-97a5-968c7d9da10b.xml) -> [RuStory_rss.xml](rss/RuStory_rss.xml)
  - source018 [https://dallas-analytics.com/feed/](https://dallas-analytics.com/feed/) -> [dallasanalytics_rss.xml](rss/dallasanalytics_rss.xml)
